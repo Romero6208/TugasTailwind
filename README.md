@@ -1,16 +1,3 @@
-<table>
-    <tr>
-        <th>ARWWNN</th>
-        <th>MIZAN</th>
-        <th>BAGUS</th>
-    </tr>
-    <tr>
-        <td>ARWWNN</td>
-        <td>MIZAN</td>
-        <td>BAGUS</td>
-    </tr>
-</table>
-<br>
-aneh
+Pertemuan 1
 &nbsp
-aneh
+Tugas Tailwind
